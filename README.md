@@ -1,10 +1,10 @@
 # RAG Data Pipeline
 
+> 🚧 **Work in progress.** This repo is an early-stage exploration of the data-ingestion stage of a RAG pipeline. The document-ingestion notebook works; the rest is still being built.
+
 A work-in-progress project exploring the data ingestion and parsing stages of a
 Retrieval-Augmented Generation (RAG) pipeline — loading source documents,
 parsing them, and preparing them for embedding and retrieval.
-
-> Status: early/experimental. Currently focused on the data ingestion step.
 
 ## Contents
 
